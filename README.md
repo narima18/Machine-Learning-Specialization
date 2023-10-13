@@ -18,10 +18,8 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification](https://github.com/narima18/Machine-Learning-Specialization/tree/d9c90be53dd880e7617743fcd36d3f241fe050b5/Supervised%20Machine%20Learning%20Regression%20and%20Classification)
-> In the first course of the Machine Learning Specialization, you will:
-> 
->• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
-> 
+> In the first course of the Machine Learning Specialization, you will:  
+>• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.  
 >• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/edec03e668172d546d3be4058ddccff84d4e30af/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201)
