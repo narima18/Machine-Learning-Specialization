@@ -39,3 +39,14 @@ By the end of this Specialization, you will have mastered key concepts and gaine
   - [Lab 1: Logistic Regression](https://github.com/narima18/Machine-Learning-Specialization/tree/3770b2c6afeee4a3d8f9d6dd4eb39afadee18963/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203/C1_W3_practiceLab)
   - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/3770b2c6afeee4a3d8f9d6dd4eb39afadee18963/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203/Optional%20Labs)
 <hr/>
+
+## Course 2 : [Advanced Learning Algorithms](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms)
+> In the first course of the Machine Learning Specialization, you will:  
+>• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.  
+>• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms/Week%201)
+  - [Lab 1: Brief Introduction to Python and Jupyter Notebooks](https://github.com/narima18/Machine-Learning-Specialization/blob/edec03e668172d546d3be4058ddccff84d4e30af/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
+  - [Lab 2: Model Representation](https://github.com/narima18/Machine-Learning-Specialization/blob/edec03e668172d546d3be4058ddccff84d4e30af/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201/C1_W1_Lab02_Model_Representation_Soln.ipynb)
+  - [Lab 3: Cost Function](https://github.com/narima18/Machine-Learning-Specialization/blob/edec03e668172d546d3be4058ddccff84d4e30af/Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201/C1_W1_Lab03_Cost_function_Soln.ipynb)
+  - [Lab 4: Gradient Descent for Linear Regression](
