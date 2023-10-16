@@ -41,12 +41,12 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 <hr/>
 
 ## Course 2 : [Advanced Learning Algorithms](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms)
->In the second course of the Machine Learning Specialization, you will:
->• Build and train a neural network with TensorFlow to perform multi-class classification
->• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+>In the second course of the Machine Learning Specialization, you will:  
+>• Build and train a neural network with TensorFlow to perform multi-class classification  
+>• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world  
 >• Build and use decision trees and tree ensemble methods, including random forests and boosted trees
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms/Week%201)
   - [Lab 1: Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/C2W1_praticeLab)
   - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs)
-
+<hr/>
