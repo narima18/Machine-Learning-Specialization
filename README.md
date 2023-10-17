@@ -49,7 +49,7 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 - [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms/Week%201)
   - [Lab 1: Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/C2W1_praticeLab)
   - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs)
-- [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/4764610c99061cb37aa90a2e1d1e3b41c36b2a7e/Advanced%20Learning%20Algorithms/Week%201)
-  - [Lab 1: Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/C2W1_praticeLab)
-  - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/e3e8871f8708f9eb6c9785c3094ca4e6610b1537/Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs)
+- [<b> Week 2 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/8e5a6fd21a391aba2466be8926a54fbea52994bc/Advanced%20Learning%20Algorithms/Week%202)
+  - [Lab 1: Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/narima18/Machine-Learning-Specialization/tree/8e5a6fd21a391aba2466be8926a54fbea52994bc/Advanced%20Learning%20Algorithms/Week%202/C2W2_praticeLab)
+  - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/8e5a6fd21a391aba2466be8926a54fbea52994bc/Advanced%20Learning%20Algorithms/Week%202/Optional%20Labs)
 <hr/>
