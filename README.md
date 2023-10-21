@@ -60,7 +60,7 @@ By the end of this Specialization, you will have mastered key concepts and gaine
   - [Optional Labs](https://github.com/narima18/Machine-Learning-Specialization/tree/c58b425bd5438f4ae002725c75bc448950be62d6/Advanced%20Learning%20Algorithms/Week%204/Optional%20Labs)
 <hr/>
 
-## Course 2 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/narima18/Machine-Learning-Specialization/tree/8ae66afedc89b7678e927a5045b594f2db647ccf/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/narima18/Machine-Learning-Specialization/tree/8ae66afedc89b7678e927a5045b594f2db647ccf/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 >In the third course of the Machine Learning Specialization, you will:  
 >• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.  
 >• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.  
