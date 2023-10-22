@@ -65,3 +65,7 @@ By the end of this Specialization, you will have mastered key concepts and gaine
 >• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.  
 >• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.  
 >• Build a deep reinforcement learning model.
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Machine-Learning-Specialization/tree/1a03cffc28a148f2c38bcb5a556cc5f4260eb36d/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201)
+  - [Lab 1: Anomaly Detection](https://github.com/narima18/Machine-Learning-Specialization/tree/1a03cffc28a148f2c38bcb5a556cc5f4260eb36d/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201/C3_W1_Anomaly_Detection)
+  - [Lab 2: KMeans Assignement](https://github.com/narima18/Machine-Learning-Specialization/tree/1a03cffc28a148f2c38bcb5a556cc5f4260eb36d/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201/C3_W1_KMeans_Assignment)
